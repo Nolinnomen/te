@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-   <title>종</title>
+   종
    <meta charset="utf-8">
 </head>
 <body>
@@ -13,17 +13,18 @@
    <li><a href="bird.html"><p style="font-size: 20px;">머리카락</p></a></li>
 </ol>
 
-<h2>생활 시숙 지 해야할</h2>\
+<h2>생활 시숙 지 해야할</h2>
 <span style=" font: italic bold 1.5em/1em Georgia, serif ; color: maroon;">
-와해瓦解 와해된친구들에게서
-손가락을 잡아뜯어 입에물었다
+와해瓦解 와해된친구들 에게서
+손가락을 잡아뜯어 입에 물었다
 반지를 빼느라 정신이 팔린 1과 뼈가 두꺼운 2 뼈에 걸린 반지를 
 
 손가락은 천천히 먹는 습성을 가진 j에게
    
-   하늘 앞에서 기웃
-   하늘 앞에서 기웃
-   하늘 앞에서 기웃
+   
+   하늘 앞에서 기웃/
+   하늘 앞에서 기웃/
+   하늘 앞에서 기웃/
    하늘 앞에서
    깊 어 서 00씨 뾰족 한 혀 - 축축한
    </span>
